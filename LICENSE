@@ -12,10 +12,17 @@ furnished to do so, subject to the following conditions:
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
 
+Additionally, any commercial or non-commercial use of the Software must include
+a clear citation to the original repository and developer. At minimum, the
+citation should reference the repository URL: https://github.com/Project-Pars-Peace/HALAJ-Schema
+and the original developer: Seyed Amir Ahmad Safavi-Naini. The citation should
+appear in product documentation, an about page, README, or other materials
+accompanying distributions or services that incorporate the Software.
+
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+aUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+out of or in connection with the Software or the use or other dealings in the
 SOFTWARE.
