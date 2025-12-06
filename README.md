@@ -796,7 +796,10 @@ Document:
 
 ## License
 
-[Your License Here]
+
+Please include a short citation to this project when using it (commercial or non‑commercial). Suggested short citation:
+
+Seyed Amir Ahmad Safavi‑Naini (2025). HALAJ‑SCHEMA. https://github.com/Project-Pars-Peace/HALAJ-Schema
 
 ---
 
